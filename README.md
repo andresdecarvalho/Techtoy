@@ -8,22 +8,22 @@
 
 <h3>Tela com os Produtos</h3>
 
-<h3>Area Administrativa - Login</h3>
+<p>Area Administrativa - Login</p>
 
-<h3>Cadastro de Categoria</h3>
-<h3>Exclusão de Categoria</h3>
-<h3>Alteração de Categoria</h3>
-<h3>Listar Categoria</h3>
+<p>Cadastro de Categoria</p>
+<p>Exclusão de Categoria</p>
+<p>Alteração de Categoria</p>
+<p>Listar Categoria</p>
 
-<h3>Cadastro de Produto</h3>
-<h3>Exclusão de Produto</h3>
-<h3>Alteração de Produto</h3>
-<h3>Listar Produto</h3>
+<p>Cadastro de Produto</p>
+<p>Exclusão de Produto</p>
+<p>Alteração de Produto</p>
+<p>Listar Produto</p>
 
-<h3>Cadastro de Usuario</h3>
-<h3>Exclusão de Usuario</h3>
-<h3>Alteração de Usuario</h3>
-<h3>Listar Usuario</h3>
+<p>Cadastro de Usuario</p>
+<p>Exclusão de Usuario</p>
+<p>Alteração de Usuario</p>
+<p>Listar Usuario</p>
 
 <br>
 <p>Projeto de disciplina realizado na instituição UNICID no ano de 2021</p>
