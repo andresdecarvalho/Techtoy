@@ -25,13 +25,11 @@
 <p>Alteração de Usuario</p>
 <p>Listar Usuario</p>
 
-<br>
-<p>Projeto de disciplina realizado na instituição UNICID no ano de 2021</p>
-
 <h4>Ferrementas utilizadas</h4>
 
 <p>Eclipse IDE</p>
 <p>java JDK 11.0.7</p>
 <p>MySQL Workbench 8.0 CE</p>
 
-
+<br>
+<p>Projeto de disciplina realizado na instituição UNICID no ano de 2021</p>
