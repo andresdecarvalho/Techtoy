@@ -32,4 +32,4 @@
 <p>MySQL Workbench 8.0 CE</p>
 
 <br>
-<p>Projeto de disciplina realizado na instituição UNICID no ano de 2021</p>
+<p>Projeto da turma de Análise e Desenvolvimento de Sistemas do 4°semestre da instituição UNICID no ano de 2021</p>
